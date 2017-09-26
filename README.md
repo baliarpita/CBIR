@@ -1,0 +1,2 @@
+# CBIR
+The project is aimed at returning a set of images similar to an input image in decreasing order of similarity and was a part of my final semester engineering project. The system takes an image as in input and returns the images similar to the input image from a trained data set based on the colour feature of the input image and no additional meta data in the form of information about the image, title, date and similar data. 
